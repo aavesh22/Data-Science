@@ -47,8 +47,6 @@ format as in sample test cases. Please don't add any extra lines such as
 Your program should take only one number as input and display the output.
 
 Ans-->
-
-
 E = eval(input())
 R = 80
 R = E * R
